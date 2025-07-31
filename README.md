@@ -43,5 +43,6 @@ Estudar e praticar programação em Python, com foco em resolver problemas e apl
 ## 💬 Contato
 
 Se quiser trocar ideias ou dar sugestões:
-- ✉️ joaogabriellicoli@gmail.com
-- 📱 (11) 99900-1636 (WhatsApp)
+- ✉️ **E-mail:** joaogabriellicoli@gmail.com  
+- 📱 **WhatsApp:** (11) 99900-1636  
+- 💼 **LinkedIn:** [linkedin.com/in/licoli-santos](https://www.linkedin.com/in/licoli-santos)
