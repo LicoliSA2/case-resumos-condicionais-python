@@ -1,48 +1,42 @@
-# case-resumos-condicionais-python
-Case do curso DNC - Python 
-# 🚀 Repositório de Estudos em Python
+# 📊 Repositório de Estudos em Python para Análise de Dados
 
 Olá! 👋  
-Este repositório foi criado para organizar meus exercícios e projetos do curso de Python. Aqui você vai encontrar códigos simples e práticos para treinar lógica, funções, listas, strings e muito mais!
+Este repositório foi criado para organizar meus estudos com Python, voltados à área de **Análise de Dados**. Aqui você encontrará exercícios, scripts e notebooks com foco em lógica, manipulação de dados, visualizações e preparação para atuar com dados reais.
 
 ---
 
 ## 📂 Estrutura
 
 ### 📁 `exercicios/`
-Contém scripts com exercícios resolvidos, divididos por tema:
-
-- `funcoes.py` → tabuada, maior número, média, pares, etc.
-- `listas.py` → manipulação de listas
-- `strings.py` → exercícios com textos e caracteres
+Scripts simples para praticar lógica, funções e listas com Python.
 
 ### 📁 `projetos/`
-Projetos simples desenvolvidos durante o curso, como:
-
-- `calculadora_imc.py` → projeto de cálculo de IMC com mensagens personalizadas
+Mini-projetos aplicados, como:
+- `calculadora_imc.py`
+- `analise_basica_vendas.py` (exemplo futuro)
 
 ### 📁 `notebooks/`
-Notebooks do Google Colab com os exercícios organizados e comentados.
+Notebooks do Google Colab com explicações e execução de código passo a passo.
 
 ---
 
-## 🛠 Tecnologias
+## 🧰 Tecnologias usadas
 
 - Python 3
 - Google Colab
+- pandas, matplotlib, seaborn (em breve)
 - Git & GitHub
 
 ---
 
-## ✨ Objetivo
+## 🎯 Objetivo
 
-Estudar e praticar programação em Python, com foco em resolver problemas e aplicar lógica de forma clara e eficiente.
+Dominar ferramentas e técnicas essenciais para trabalhar com dados, desde a limpeza até a visualização, com foco em resolução de problemas reais e construção de portfólio.
 
 ---
 
 ## 💬 Contato
 
-Se quiser trocar ideias ou dar sugestões:
 - ✉️ **E-mail:** joaogabriellicoli@gmail.com  
 - 📱 **WhatsApp:** (11) 99900-1636  
 - 💼 **LinkedIn:** [linkedin.com/in/licoli-santos](https://www.linkedin.com/in/licoli-santos)
